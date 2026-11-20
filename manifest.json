@@ -1,8 +1,8 @@
 {
   "name": "Terminplaner App",
   "short_name": "SV-DC Termine",
-  "start_url": "/TerminplanerAppWeb/",
-  "scope": "/TerminplanerAppWeb/",
+  "start_url": "/Terminplaner/",
+  "scope": "/Terminplaner/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
