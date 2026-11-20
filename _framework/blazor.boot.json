@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TerminplanerAppWeb",
   "resources": {
-    "hash": "sha256-PD4Jepq7lo+0m4k4HccuMvG2GvdG2H25Fu9InqZL9No=",
+    "hash": "sha256-H76yEbJpv5xqoDu5inlMZvfyOtdEErluqcu0qdTzzqI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -20,8 +20,8 @@
     "assembly": {
       "BCrypt.Net-Next.wasm": "sha256-vn1+CLDQA7cXT++8crd9GTBHootDpHMDJ06/FyiImpA=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "Microsoft.AspNetCore.Components.wasm": "sha256-jzf0janwSpynEPyPXXlsxp2QyZTGRKMTFPtBjHt7RyM=",
-      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-VsfmNL+LgZkaiczkmP6t95t/1w7ne2L27BHxQN21V74=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-bqfLkdSelpCDMai0Sz2zTq8C/xcTZT7cSDLPakpkjxY=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-id2ll+cubMMPDNdGnHO0kmWCQPwgVG5f0xF0JVHqv0o=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-AES27cESfoDjkCIe5A4UC/3BrjRtU3TaZjfTgUOeZgc=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
@@ -89,7 +89,7 @@
       "System.Runtime.Numerics.wasm": "sha256-H6QoN+MGdUcEuuErWVcsW+dlmsp3eAr5sX0EHIHY8Ok=",
       "System.Runtime.Serialization.Formatters.wasm": "sha256-3Vs8bJRwbxi00/Flutbq2sCnInQV4O1slJd/IOHGnJE=",
       "System.Runtime.Serialization.Primitives.wasm": "sha256-vfR8tVl/TFJygTWaAI8YkMplB23LxuzOLttgOsTI0d8=",
-      "System.Runtime.wasm": "sha256-Bqj2PTvE1MnrAfQYxPBJG0HQkQ2nYy33urmTtjLJmHU=",
+      "System.Runtime.wasm": "sha256-xfDSnonlS8GkLTQvTz+O61nEU371aElw96Bovvpxmt0=",
       "System.Security.Claims.wasm": "sha256-G1NMuEj8eo1xZPpdEW5B+mnoW9ZP+JVJaXo1sE69wOM=",
       "System.Security.Cryptography.Algorithms.wasm": "sha256-e+uFngZ93zDs6cj1QtjLywsYid65pNctTd+y85O1u+c=",
       "System.Security.Cryptography.Primitives.wasm": "sha256-hH3ODG7vOQBFQvvcC7z8wj4Yb2lf/XY7WjXT7yxqsoY=",
@@ -107,8 +107,8 @@
       "System.Xml.XDocument.wasm": "sha256-Bzmlh+HxE91Gkn8oGeTPwJJhfsqs+vT4bGF29P+Uzbg=",
       "System.wasm": "sha256-YSihFa+YInKtLQNBZCK8pNPmas5a97BeIhBK9Cl2Qx8=",
       "netstandard.wasm": "sha256-MjYHLQ6ee9bjPrJqe7H6COtQAW52W9HQce75ChAvnIs=",
-      "System.Private.CoreLib.wasm": "sha256-B4G7TsoVQa7xV10ixaYnH9I1WVS/gddkhlKWI2c/8cs=",
-      "TerminplanerAppWeb.wasm": "sha256-aMzGz2aA5MVyrm3Q1G0CQTTKHhcUig8akBPy49ai9v0="
+      "System.Private.CoreLib.wasm": "sha256-VpsOg0KcxXd3x4rXurj6Kh1b6vPUuDrrjHYyb2yKQ6g=",
+      "TerminplanerAppWeb.wasm": "sha256-6uDxK491gEdTmDOioHuHFryESElwnscIA/w9bYWyP4g="
     }
   },
   "cacheBootResources": true,
