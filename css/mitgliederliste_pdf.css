@@ -1,0 +1,149 @@
+﻿/* ==========================
+   GESAMTE SEITE
+========================== */
+
+.mitglieder-print-page {
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+
+/* ==========================
+   HEADER
+========================== */
+
+.pdf-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.report-name {
+    font-size: 28px;
+    font-weight: 700;
+    color: #222;
+    letter-spacing: .5px;
+}
+
+.report-date {
+    margin-top: 4px;
+    font-size: 12px;
+    color: #777;
+}
+
+.filter-box {
+    background: #f4f6f8;
+    border: 1px solid #d8dde3;
+    border-radius: 6px;
+    padding: 10px 14px;
+    min-width: 180px;
+    font-size: 12px;
+}
+
+.filter-line {
+    margin-bottom: 6px;
+}
+
+    .filter-line:last-child {
+        margin-bottom: 0;
+    }
+
+    .filter-line span {
+        color: #666;
+    }
+
+.header-divider {
+    height: 2px;
+    background: #2f80ed;
+    margin-bottom: 15px;
+}
+
+
+/* ==========================
+   TABELLE
+========================== */
+
+.mitglieder-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+}
+
+    .mitglieder-table thead tr {
+        background: #dfe6ee;
+    }
+
+    .mitglieder-table th {
+        padding: 8px;
+        border: 1px solid #bfc6ce;
+        text-align: left;
+        font-weight: 700;
+    }
+
+    .mitglieder-table td {
+        padding: 7px 8px;
+        border: 1px solid #d9dde2;
+    }
+
+    .mitglieder-table tbody tr:nth-child(even) {
+        background: #f7f8fa;
+    }
+
+
+    /* ==========================
+   SPALTENBREITEN
+========================== */
+
+    .mitglieder-table th:nth-child(1),
+    .mitglieder-table td:nth-child(1) {
+        width: 75px;
+    }
+
+    .mitglieder-table th:nth-child(3),
+    .mitglieder-table td:nth-child(3) {
+        width: 90px;
+    }
+
+    .mitglieder-table th:nth-child(4),
+    .mitglieder-table td:nth-child(4) {
+        width: 90px;
+    }
+
+    .mitglieder-table th:nth-child(5),
+    .mitglieder-table td:nth-child(5) {
+        width: 70px;
+    }
+
+    .mitglieder-table th:nth-child(6),
+    .mitglieder-table td:nth-child(6) {
+        width: 70px;
+    }
+
+    .mitglieder-table th:nth-child(7),
+    .mitglieder-table td:nth-child(7) {
+        width: 100px;
+    }
+
+
+/* ==========================
+   SEITENNUMMER
+========================== */
+
+.page-footer {
+    margin-top: 20px;
+    text-align: right;
+    font-size: 11px;
+    color: #777;
+}
+
+
+/* ==========================
+   SEITENUMBRUCH
+========================== */
+
+.pdf-page {
+    page-break-after: always;
+    break-after: page;
+}
