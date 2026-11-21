@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TerminplanerAppWeb",
   "resources": {
-    "hash": "sha256-SWUQONCnAJWJIPybPM4qIbVMRL+BKiDur2DZIfSfogE=",
+    "hash": "sha256-7qe8Ta4VMSI3Y5NvEqgE8/L3lebsqWk7Z7ruHtzrrug=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -20,7 +20,7 @@
     "assembly": {
       "BCrypt.Net-Next.wasm": "sha256-vn1+CLDQA7cXT++8crd9GTBHootDpHMDJ06/FyiImpA=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "Microsoft.AspNetCore.Components.wasm": "sha256-H9eI/TxdUgKU9jbz98aXoQCUt57ZpjrinVsZ/Epqs6M=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-dYdtw7kAXBtWuCK1Mvdv+fu/J4ranbrk+mWSklnfU8k=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-id2ll+cubMMPDNdGnHO0kmWCQPwgVG5f0xF0JVHqv0o=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-AES27cESfoDjkCIe5A4UC/3BrjRtU3TaZjfTgUOeZgc=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
@@ -107,8 +107,8 @@
       "System.Xml.XDocument.wasm": "sha256-Bzmlh+HxE91Gkn8oGeTPwJJhfsqs+vT4bGF29P+Uzbg=",
       "System.wasm": "sha256-YSihFa+YInKtLQNBZCK8pNPmas5a97BeIhBK9Cl2Qx8=",
       "netstandard.wasm": "sha256-MjYHLQ6ee9bjPrJqe7H6COtQAW52W9HQce75ChAvnIs=",
-      "System.Private.CoreLib.wasm": "sha256-VpsOg0KcxXd3x4rXurj6Kh1b6vPUuDrrjHYyb2yKQ6g=",
-      "TerminplanerAppWeb.wasm": "sha256-/ecki5kQwEQS1009BSWLAPMPLItJi4GD85q55qMi3ik="
+      "System.Private.CoreLib.wasm": "sha256-M55dPW+tBTZ+4CaXA5+Y0jwbEB5FA5PJL1E44L57vNw=",
+      "TerminplanerAppWeb.wasm": "sha256-R1sCG+UZMws6xklt5FZJoYSIzjujnZpRZf5H1R3N3i8="
     }
   },
   "cacheBootResources": true,
