@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TerminplanerAppWeb",
   "resources": {
-    "hash": "sha256-noQ+UVAfsQf0Wk33mwVrDcTAUEQPrqCfz0sVkCWntnU=",
+    "hash": "sha256-IdX7KN7NIZAss4RTFJ03DmTrrOwjz/BKd9psLqfNRQY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -89,7 +89,7 @@
       "System.Runtime.Numerics.wasm": "sha256-H6QoN+MGdUcEuuErWVcsW+dlmsp3eAr5sX0EHIHY8Ok=",
       "System.Runtime.Serialization.Formatters.wasm": "sha256-3Vs8bJRwbxi00/Flutbq2sCnInQV4O1slJd/IOHGnJE=",
       "System.Runtime.Serialization.Primitives.wasm": "sha256-vfR8tVl/TFJygTWaAI8YkMplB23LxuzOLttgOsTI0d8=",
-      "System.Runtime.wasm": "sha256-xfDSnonlS8GkLTQvTz+O61nEU371aElw96Bovvpxmt0=",
+      "System.Runtime.wasm": "sha256-BD213eJ9wSfRJunymYjHS+8pzSlTKtqctBOQKVZeJqk=",
       "System.Security.Claims.wasm": "sha256-G1NMuEj8eo1xZPpdEW5B+mnoW9ZP+JVJaXo1sE69wOM=",
       "System.Security.Cryptography.Algorithms.wasm": "sha256-e+uFngZ93zDs6cj1QtjLywsYid65pNctTd+y85O1u+c=",
       "System.Security.Cryptography.Primitives.wasm": "sha256-hH3ODG7vOQBFQvvcC7z8wj4Yb2lf/XY7WjXT7yxqsoY=",
@@ -108,7 +108,7 @@
       "System.wasm": "sha256-YSihFa+YInKtLQNBZCK8pNPmas5a97BeIhBK9Cl2Qx8=",
       "netstandard.wasm": "sha256-MjYHLQ6ee9bjPrJqe7H6COtQAW52W9HQce75ChAvnIs=",
       "System.Private.CoreLib.wasm": "sha256-/tRrMnqKCb40SFTHz7YLvgTMCJNPNi/Y8Ms3KKwM/Xw=",
-      "TerminplanerAppWeb.wasm": "sha256-UOJnmI6T86HTex4y2B6tZPnvte++QBPxeYZo9cJhAMQ="
+      "TerminplanerAppWeb.wasm": "sha256-G92gbWsbF6QAQYjpsKDbphcOzuwLiq1njkVNes3lhfk="
     }
   },
   "cacheBootResources": true,
