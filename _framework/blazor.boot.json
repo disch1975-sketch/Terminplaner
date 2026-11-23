@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TerminplanerAppWeb",
   "resources": {
-    "hash": "sha256-ONGmHLnHdQoJmLiL2jfOINg4q8O7bSMfqczakEM8bLw=",
+    "hash": "sha256-J7x8ltPAlfIsF/LctQXOVkQpxoH/dA0gf3m8/+KHQFA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -108,7 +108,7 @@
       "System.wasm": "sha256-YSihFa+YInKtLQNBZCK8pNPmas5a97BeIhBK9Cl2Qx8=",
       "netstandard.wasm": "sha256-MjYHLQ6ee9bjPrJqe7H6COtQAW52W9HQce75ChAvnIs=",
       "System.Private.CoreLib.wasm": "sha256-/tRrMnqKCb40SFTHz7YLvgTMCJNPNi/Y8Ms3KKwM/Xw=",
-      "TerminplanerAppWeb.wasm": "sha256-30kBHt0q3uuk3/GC3Kz7n9aIQtMosa8iQ692chiYc54="
+      "TerminplanerAppWeb.wasm": "sha256-dYtmnspDcRDhmKWsIqNACnWKh8HXWni1XoGUA3ANZSs="
     }
   },
   "cacheBootResources": true,
